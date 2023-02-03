@@ -1,0 +1,71 @@
+{
+    "status": "ok",
+    "totalResults": 5,
+    "articles": [
+        {
+            "source": {
+                "id": "der-tagesspiegel",
+                "name": "Der Tagesspiegel"
+            },
+            "author": "Thomas Loy",
+            "title": "Kfz-Zulassungen in Berlin und Brandenburg: Tesla ist rund um die Gigafactory eine Randerscheinung",
+            "description": "Die Gigafactory in Grünheide hat in der Region noch keinen großen Nachfrageschub ausgelöst. Daran scheint Elon Musk bisher auch kaum interessiert zu sein.",
+            "url": "https://www.tagesspiegel.de/berlin/berliner-wirtschaft/kfz-zulassungen-in-berlin-und-brandenburg-tesla-ist-rund-um-die-gigafactory-eine-randerscheinung-8637757.html",
+            "urlToImage": "https://www.tagesspiegel.de/images/file-photo-tesla-hands-over-first-cars-produced-at-new-plant-in-gruenheide1/alternates/BASE_16_9_W1400/file-photo-tesla-hands-over-first-cars-produced-at-new-plant-in-gruenheide.jpeg",
+            "publishedAt": "2022-10-15T21:18:10+00:00",
+            "content": "Die Tesla-Niederlassung in Schönefeld ist nicht einfach zu finden. Keine Schilder, die den Weg weisen, kein Werbeemblem, das über die Dächer ragt. Verkaufssalon und Werkstatt sind in einem schlichten… [+91 chars]"
+        },
+        {
+            "source": {
+                "id": "the-wall-street-journal",
+                "name": "The Wall Street Journal"
+            },
+            "author": "Kathryn Hardison",
+            "title": "Tesla, Netflix Set to Report Earnings as Recession Talk Mounts",
+            "description": "Corporate earnings season is ramping up with quarterly reports from other bellwethers, including Procter & Gamble, Johnson & Johnson and IBM.",
+            "url": "https://www.wsj.com/articles/tesla-netflix-set-to-report-earnings-as-recession-talk-mounts-11665798615?mod=hp_lead_pos5",
+            "urlToImage": "https://images.wsj.net/im-644749/social",
+            "publishedAt": "2022-10-15T13:00:00Z",
+            "content": "Procter &amp; GambleNetflix and Tesla highlight a busy coming week of earnings as persistent inflation and climbing interest rates stoke talk of a recession.\r\nConsumer healthcare giant Johnson &amp; … [+342 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-ru",
+                "name": "Google News (Russia)"
+            },
+            "author": "ГОРДОН",
+            "title": "Маск заявил, что Россия хочет \"убить\" Starlink",
+            "description": "Американский бизнесмен, основатель компаний SpaceX и Tesla Илон Маск считает, что Россия пытается уничтожить работу системы спутникового интернет Starlink. Об этом он https://twitter.com/elonmusk/status/1581075601049669634?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweet…",
+            "url": "https://gordonua.com/news/worldnews/mask-zayavil-chto-rossiya-hochet-ubit-starlink-1631046.html",
+            "urlToImage": "https://gordonua.com/img/article/16310/46_big.jpg?v1665827491",
+            "publishedAt": "2022-10-15T09:47:00+00:00",
+            "content": ", Starlink – , , \"\"\r\n\" Starlink. , SpaceX . , Starlink \", – .\r\n Telegram, \" Starlink , \" . \r\n CNN ,  SpaceX Starlink . .\r\nBig difference between peace comms vs warfront comms. \r\nStarlink is only comm… [+288 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Dana Milbank",
+            "title": "Introducing the all-new Tesla Model Q: Join the conspiracy",
+            "description": "The storm is coming — and you’ll be prepared with the Model Q’s best-in-class handling.",
+            "url": "https://www.washingtonpost.com/opinions/2022/10/14/tesla-qanon-elon-musk-satire/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/BNZRWDCF3II63PQXRHF6NOGAUU.jpg&w=1440",
+            "publishedAt": "2022-10-14T16:58:27Z",
+            "content": "Thats it! Im not buying a Tesla.\r\nOkay, so I wasnt going to buy a Tesla anyway; theyre too expensive. But now theres a principle behind my parsimony: I refuse to line the pockets of the worlds wealth… [+3908 chars]"
+        },
+        {
+            "source": {
+                "id": "recode",
+                "name": "Recode"
+            },
+            "author": "Whizy Kim",
+            "title": "Elon Musk’s texts offer a rare glimpse at the billionaire boys’ club",
+            "description": "Messages released in Twitter’s lawsuit against the Tesla founder show some of the nation’s wealthiest people offered support and even cash to buy the platform, as some users expressed dismay.",
+            "url": "https://www.vox.com/recode/2022/10/1/23381257/elon-musk-texts-twitter-billionaires",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/qcL745CmqEsxbg6TPX4ZV9BfIv4=/0x248:4000x2342/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24070175/1395371333.jpg",
+            "publishedAt": "2022-10-01T11:30:00Z",
+            "content": "A trove of Elon Musks text messages was released this week as part of a lawsuit Twitter has filed against the billionaire, and its proving to be an illuminating look inside conversations between Musk… [+8127 chars]"
+        }
+    ]
+}
